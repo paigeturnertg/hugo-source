@@ -1,21 +1,11 @@
 ---
+title: "Highway to Elle"
 date: 2025-11-02
 draft: false
 ---
+[← Back to Stories](/portfolio/)
 
-All my stories are available for free on Fictionmania and TG Storytime. Click through to read!
-
----
-
-## Highway to Elle
-
-![Highway to Elle](/images/stories/TNfirstday.jpg)
-
-*Tags: #MedTech #AgeRegression #Cheerleader*
-
-When star wide receiver Logan Turner suffers a devastating back injury that ends his football career and costs him his scholarship, desperation leads him to a mysterious facility promising athletic "repurposing" and a second chance. Under the care of the enigmatic Dr. Gupta, Logan begins a process he doesn't fully understand—as strange occurrences mount at the facility, he faces a transformation far more profound than he ever anticipated, unaware that the path ahead is nothing like he could have imagined.
-
-**Status:** Complete (16 chapters + epilogue)
+Highway to Elle wasn't just my first TG fiction story - it was my first attempt at writing fiction at all! Originally planned as a 3 or 4 chapter short story, it took on a life of its own and ended up at 16 chapters and an epilogue. Logan/Elle is still the character I'm most fond of, and the one I like to imagine having a full life after the end of the story.
 
 **Chapters:**
 - Chapter 1: Tumbling Down | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1745216666150684143) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8443&chapter=1)
@@ -35,23 +25,3 @@ When star wide receiver Logan Turner suffers a devastating back injury that ends
 - Chapter 15: Elle of the Ball | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1747885625255924731) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8443&chapter=15)
 - Chapter 16: Commencement | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1748059549339393930) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8443&chapter=16)
 - Epilogue and Author's Note | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1748128865375738217) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8443&chapter=17)
-
----
-
-## Effortless Beauty
-
-![Effortless Beauty](/images/stories/TNeffortless-beauty.jpg)
-
-*Tags: #Magical #Adult #Workplace*
-
-Sam Lane has perfected the art of minimal effort—working IT from his couch, taking every possible shortcut, and avoiding anything that resembles actual work. When a mysterious free gym trial appears in his mail, it seems like the universe finally delivering a solution that requires zero initiative on his part. But after just a few "gentle" yoga classes and convenient lifestyle changes, Sam discovers that some shortcuts come with dramatic consequences.
-
-**Status:** Complete (4 chapters)
-
-**Chapters:**
-- Chapter 1 | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1748923262222600351) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8508&chapter=1)
-- Chapter 2 | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=174901294141870120) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8508&chapter=2)
-- Chapter 3 | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1749161135116506688) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8508&chapter=3)
-- Chapter 4 | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1749324081196601277) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8508&chapter=4)
-
----

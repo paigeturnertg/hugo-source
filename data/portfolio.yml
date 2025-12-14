@@ -1,0 +1,49 @@
+portfolioitems:
+  - title:
+    portfolioitem:
+      - name: Highway to Elle
+        image: /images/stories/highway-to-elle.jpg
+        link: /stories/highway-to-elle/
+        description: "When star wide receiver Logan Turner suffers a devastating back injury that ends his football career and costs him his scholarship, desperation leads him to a mysterious facility promising athletic repurposing and a second chance. Under the care of the enigmatic Dr. Gupta, Logan begins a process he doesn't fully understand—as strange occurrences mount at the facility, he faces a transformation far more profound than he ever anticipated, unaware that the path ahead is nothing like he could have imagined."
+        tags:
+          - MedTech
+          - AgeRegression
+          - Cheerleader
+        status: "Complete (16 chapters + epilogue)"
+      - name: Effortless Beauty
+        image: /images/stories/effortless-beauty.jpg
+        link: /stories/effortless-beauty/
+        description: "Sam Lane has perfected the art of minimal effort—working IT from his couch, taking every possible shortcut, and avoiding anything that resembles actual work. When a mysterious free gym trial appears in his mail, it seems like the universe finally delivering a solution that requires zero initiative on his part. But after just a few gentle yoga classes and convenient lifestyle changes, Sam discovers that some shortcuts come with dramatic consequences."
+        tags:
+          - Magical
+          - Adult
+          - Workplace
+        status: "Complete (4 chapters)"
+      - name: Best Friends Forever
+        image: /images/stories/best-friends-forever.jpg
+        link: /stories/best-friends-forever/
+        description: "When Trace's suspicious girlfriend demands he bring a chaperone to his friend's wedding, he talks his best friend Gabe into helping him teach her a lesson. What starts as Trace's simple plan for harmless revenge quickly spirals into something far more complicated than either of them expected."
+        tags:
+          - MedTech
+          - Adult
+          - Deals/Bets/Dares
+        status: "Complete (2 chapters)"
+      - name: Yvonne Girl
+        image: /images/stories/faceoff.jpg
+        link: /stories/yvonne-girl/
+        description: "A seasoned political operative's career managing an arrogant governor's scandals reaches a breaking point when a heated confrontation pushes him past his limits. When his boss's crude power play forces him into an impossible choice, he makes a shocking decision that will either destroy his career or become the ultimate act of defiance—not knowing that this single moment of stubborn pride will set in motion a chain of events that will transform everything he thought he knew about power, loyalty, and himself."
+        tags:
+          - Realistic
+          - Adult
+          - Workplace
+        status: "Complete (15 chapters + epilogue)"
+      - name: Hex Lives of College Girls
+        image: /images/stories/hexlivescover.jpg
+        link: /stories/hex-lives/
+        description: "We all know how this goes—Kyle and Cole desperately need costumes for a party, there's a mysterious shop, things go wrong. But do you know it with a dramatically ominous Gothic narrator treating their doom as inevitable tragedy? A fun, trope-filled Halloween romp that takes the classic setup and runs with it—carefully-worded deals, terrible irony straight out of the Twilight Zone, and all the spooky transformation fun you'd expect."
+        tags:
+          - Magical
+          - College
+          - Cheerleader
+          - Maid
+        status: "Complete (1 chapter)"

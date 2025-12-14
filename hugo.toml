@@ -8,6 +8,7 @@ title = "Paige Turner"
 author = "Paige Turner"
 description = "Transformation-focused TG fiction"
 profilePicture = "images/profile.jpg"
+mainSections = ["posts"]
 
 [[params.socialIcons]]
 icon = "fab fa-discord"
@@ -26,12 +27,12 @@ url = "mailto:paigeturnertg@gmail.com"
     weight = 100
     url = "/"
   [[menu.main]]
-    name = "Stories"
-    weight = 200
-    identifier = "stories"
-    url = "/stories/"
-  [[menu.main]]
     name = "About"
     weight = 300
     identifier = "about"
     url = "/about/"
+  [[menu.main]]
+    name = "Stories"
+    weight = 200
+    identifier = "stories"
+    url = "/portfolio/"
