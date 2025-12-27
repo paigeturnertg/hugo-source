@@ -36,3 +36,13 @@ url = "mailto:paigeturnertg@gmail.com"
     weight = 200
     identifier = "stories"
     url = "/portfolio/"
+  [[menu.main]]
+    name = "Downloads"
+    weight = 400
+    identifier = "downloads"
+    url = "/downloads/"
+  [[menu.main]]
+    name = "Discord"
+    weight = 500
+    identifier = "discord"
+    url = "https://discord.gg/w8ne2f7nX8"

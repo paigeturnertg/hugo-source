@@ -47,3 +47,21 @@ portfolioitems:
           - Cheerleader
           - Maid
         status: "Complete (1 chapter)"
+      - name: Miss-ing You This Christmas
+        image: /images/stories/xmascover.jpg
+        link: /stories/missing-you-xmas/
+        description: "Big-city journalist Mark Holly arrives in Pine Hollow to research an article about small-town Christmas. But one borrowed Christmas sweater, one registration mix-up, and one widowed tree farmer later, he finds he's living a Hallmark movie come to life. Along the way, Mark learns that sometimes the story you end up writing isn't always the one you were looking for."
+        tags:
+          - Magical
+          - Adult
+          - Sweet/Romantic
+        status: "Complete (4 chapters)"
+      - name: Hex the Halls
+        image: /images/stories/hexmascover.jpg
+        link: /stories/hex-halls/
+        description: "Kylie and Colette return for a holiday-themed, horror-infused sequel to Hex Lives of College Girls! Our heroines survived Halloween, but now comes the hard part: actually living as the girls they've become. When they find a solution to their desperate lack of knowledge, it seems like a Christmas miracle--until the cost becomes clear. Same universe! Different narrator! Merry Hexmas!"
+        tags:
+          - Magical
+          - College
+          - Mental Changes
+        status: "Complete (1 chapter)"

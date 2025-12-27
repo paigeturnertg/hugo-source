@@ -7,7 +7,9 @@ draft: false
 
 Highway to Elle wasn't just my first TG fiction story - it was my first attempt at writing fiction at all! Originally planned as a 3 or 4 chapter short story, it took on a life of its own and ended up at 16 chapters and an epilogue. Logan/Elle is still the character I'm most fond of, and the one I like to imagine having a full life after the end of the story.
 
-**Chapters:**
+**Author's Edition PDF:** [Download here](/pdfs/highway-to-elle.pdf) (20MB download)
+
+**Online Chapters:**
 - Chapter 1: Tumbling Down | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1745216666150684143) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8443&chapter=1)
 - Chapter 2: Cheer Pressure | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1745519065297771550) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8443&chapter=2)
 - Chapter 3: Short Notice | [Fictionmania](https://fictionmania.tv/stories/readhtmlstory.html?storyID=1745700554386235043) | [TG Storytime](https://www.tgstorytime.com/viewstory.php?sid=8443&chapter=3)
